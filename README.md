@@ -41,7 +41,7 @@ All of these analyses are also easily executable in R using the svy package, and
 I chose to use Stata as I have previously worked with NHANES in Stata and have code which I know to be stable.          
 
 ### Research Impact
-The results were published in The Journal of the American Dental Association.                                                                       \        
+The results were published in The Journal of the American Dental Association.        
 At the time of publication, this paper provided the most contemporary statistics on untreated caries for any country in the world, not just the US.
 
 ##### Research conducted whilst at: School of Dentistry, University of Birmingham (BDS5 Student)
