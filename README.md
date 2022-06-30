@@ -8,8 +8,8 @@ Nasir Zeeshan Bashir
 Survey methods and analytical guidelines: https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020  \
 NHANES data: https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020                               \
 US 2000 Census weights: https://seer.cancer.gov/stdpopulations/                                                           \
-Final paper DOI: 10.1016/j.adaj.2021.09.004                                                                               \
-Final paper link (22.12.2021): https://jada.ada.org/article/S0002-8177(21)00581-X/fulltext
+Paper DOI: 10.1016/j.adaj.2021.09.004                                                                               \
+Paper link (22.12.2021): https://jada.ada.org/article/S0002-8177(21)00581-X/fulltext
 
 ### Background
 This Stata code documents the analyses carried out in order to estimate the prevalence of untreated caries in the US adult population, for the period 2017 through 2020.
