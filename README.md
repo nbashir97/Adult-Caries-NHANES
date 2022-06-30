@@ -1,5 +1,5 @@
 # US Adult Caries Epidemiology
-Code for the paper on the prevalence of caries in US adult for the period 2017 to 2020.
+Code for the paper on the prevalence of caries in US adults for the period 2017 to 2020.
 
 #### Author
 Nasir Zeeshan Bashir
