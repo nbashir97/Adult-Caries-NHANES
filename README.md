@@ -22,7 +22,7 @@ In order to do so, the NHANES 2017-2020 cohort was analysed: a cross-sectional s
 **Conclusions:** Untreated caries is present in more than 1 in 5 adults within the US population and is disproportionately distributed among those of lower socioeconomic status.
 
 ### Analysis
-The Stata do-file to execute the analyses is located in /Stata/NHANES_2020_Adult_Caries.do; note that I did not create a single for-loop to simultaneously execute all of the analyses, as I wanted to view the outputs of each analysis, one at a time.
+The Stata do-file to execute the analyses are located in /Stata/NHANES_2020_Adult_Caries.do; note that I did not create a single for-loop to simultaneously execute all of the analyses, as I wanted to view the outputs of each analysis, one at a time.
 
 **R v4.0.5** \
 **Stata v16.0**
